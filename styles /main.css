@@ -1,0 +1,34 @@
+body{
+  background-color: #dddddd;
+}
+
+h1 {
+  color: #FF0000;
+  border: 4px solid #FF0000;
+  text-align: center;
+  font-size: 400%;
+  padding: 12px;
+  width: 60%;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+}
+
+h2{
+  color: #006400;
+  border-bottom: 2px solid #006400;
+}
+
+.advert01 {
+  background-image: url(bg-image01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+
+.advert01 h1 {
+  border: none;
+  color: #ffffff;
+  font-size: 300px;
+}
